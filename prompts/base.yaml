@@ -1,0 +1,6 @@
+name: base
+prompt: |
+  Answer the question clearly and correctly.
+
+  Question:
+  {input}

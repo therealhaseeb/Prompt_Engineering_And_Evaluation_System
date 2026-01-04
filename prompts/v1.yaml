@@ -1,0 +1,7 @@
+name: v1
+prompt: |
+  You are a careful AI assistant.
+  If you do not know the answer, say so.
+
+  Question:
+  {input}
